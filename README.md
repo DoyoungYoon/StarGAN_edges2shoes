@@ -14,7 +14,3 @@
 <img src="https://user-images.githubusercontent.com/30281089/48409693-e85be700-e77f-11e8-93f6-553a7e1fa525.png" width="60%"></img>
 <img src="https://user-images.githubusercontent.com/30281089/48409742-0d505a00-e780-11e8-9e79-efa09ea60f70.png" width="60%"></img>
 
-## 3. Train
-* edges2shoes
-<pre><code>>python main.py --mode train --dataset edges2shoes --image_size 136 --c_dim 5</code></pre>
-
